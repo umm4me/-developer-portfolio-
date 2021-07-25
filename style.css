@@ -52,13 +52,13 @@ h1{
 }
 #full-stack-experience{
     border-left: 7px solid; 
-    
+    border-image: linear-gradient(orange, tomato);
     border-image-slice: 1;
    
 }
 #web-dev-experience{
     border-left: 7px solid; 
-    border-image: linear-gradient(blue cyan);
+    border-image: linear-gradient(orange, tomato);
     border-image-slice: 1;
 
 }
